@@ -1,0 +1,20 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "Studying TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tsx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Misaias Francisco Correa",
+    "email": "mizaiascorrea@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  }
+}
